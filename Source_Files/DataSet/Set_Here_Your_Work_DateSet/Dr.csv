@@ -1,0 +1,20 @@
+﻿gmail,password,name,Course01,Code,Course02,Code,Course03,Code,Num of Courses
+Dr.AhmedHassan@acu.edu.eg,AcuAhmedCs,Dr. Ahmed Hassan,Compiler and Interpreters,AIN405,Deep learning,CSC310,Fault Tolerance,AIN414,3
+Dr.FatimaAli@acu.edu.eg,AcuFatimaCs,Dr. Fatima Ali,Optical Networks,CNE413,Wireless Networks,CNE405,Data Communications,CNE203,3
+Dr.KhaledMahmoud@acu.edu.eg,AcuKhaledCs,Dr. Khaled Mahmoud,Discrete Mathematics,MAT103,Fundamentals of Management,MAN101,Critical Thinking,UNI101,3
+Dr.SarahAbbas@acu.edu.eg,AcuSarahCs,Dr. Sarah Abbas,Data Science Programming,CSC309,Robotics,AIN402,Machine Learning,CSC409,3
+Dr.MohamedGaber@acu.edu.eg,AcuGaberCs,Dr. Mohamed Gaber,Advanced Computer Graphics,CSC413,Event-Driven Programming Languages,CSC207,NULL,NULL,2
+Dr.LaylaYoussef@acu.edu.eg,AcuLaylaCs,Dr. Layla Youssef,Virtual reality,AIN414,Introduction to Artificial Intelligence,CSC303,NULL,NULL,2
+Dr.AbdulRahmanNasser@acu.edu.eg,AcuRahmanCs,Dr. Abdul Rahman Nasser,Machine vision,AIN413,Perception and computer vision,CSC407,NULL,NULL,2
+Dr.SamarHussein@acu.edu.eg,AcuSamarCs,Dr. Samar Hussein,Probability and Statistics,MAT203,Presentation and Communication Skills,UNI102,NULL,NULL,2
+Dr.YoussefMansour@acu.edu.eg,AcuYoussefCs,Dr. Youssef Mansour,Data warehousing and data integration,SWE411,Object Oriented software development,SWE403,NULL,NULL,1
+Dr.HalaIbrahim@acu.edu.eg,AcuHalaCs,Dr. Hala Ibrahim,Database ll,SWE402,Software Project Management,SWE412,NULL,NULL,1
+Dr.AliMohsen@acu.edu.eg,AcuAliCs,Dr. Ali Mohsen,Computer Graphics,CSC302,Linear Algebra II,MAT201,NULL,NULL,1
+Dr.NouraKhalil@acu.edu.eg,AcuNouraCs,Dr. Noura Khalil,Information and Networks Security,CNE308,Parallel and Distributed Systems,CNE402,NULL,NULL,1
+Dr.HassanAmin@acu.edu.eg,AcuHassanCs,Dr. Hassan Amin,Electronics,CNE101,Math II ( Algebra & calculus),MATH2,NULL,NULL,1
+Dr.NadiaSaeed@acu.edu.eg,AcuNadiaCs,Dr. Nadia Saeed,Analysis and Design of Algorithms,CSC205,NULL,NULL,NULL,NULL,1
+Dr.OmarFawzi@acu.edu.eg,AcuOmarCs,Dr. Omar Fawzi,Principles of Programming Languages,CSC204,NULL,NULL,NULL,NULL,1
+Dr.MonaHussein@acu.edu.eg,AcuMonaCs,Dr. Mona Hussein,Information Systems Analysis and Design,SWE201,NULL,NULL,NULL,NULL,1
+Dr.AdelAbdullah@acu.edu.eg,AcuAdelCs,Dr. Adel Abdullah,Mobile Computing,CNE406,NULL,NULL,NULL,NULL,1
+Dr.RaniaKamal@acu.edu.eg,AcuRaniaCs,Dr. Rania Kamal,Fundamentals of Programming I,CSC102,NULL,NULL,NULL,NULL,1
+Dr.KarimEid@acu.edu.eg,AcuKarimCs,Dr. Karim Eid,Computer Systems Modeling and Analysis,CNE310,NULL,NULL,NULL,NULL,1

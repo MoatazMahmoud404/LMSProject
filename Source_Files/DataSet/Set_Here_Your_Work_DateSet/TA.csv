@@ -1,0 +1,40 @@
+gmail,password,name,course1,code1,course2,code2,numOfCourses
+Nourhan.Abdelrahman@acu.edu.eg,AcuNourhanCs,Eng. Nourhan Abdelrahman,Linear Algebra II,MAT201,Fundamentals of Programming I,CSC102,2
+Rania.Salem@acu.edu.eg,AcuRaniaCs,Eng. Rania Salem,Fundamentals of Programming I,CSC102,Machine Vision,AIN413,2
+Ahmed.Abdelhady@acu.edu.eg,AcuAhmedCs,Eng. Ahmed Abdelhady,Discrete Mathematics,MAT103,Software Project Management,SWE412,2
+Yasmin.Hassan@acu.edu.eg,AcuYasminCs,Eng. Yasmin Hassan,Fundamentals of Programming I,CSC102,Compiler and Interpreters,CSC402,2
+Kareem.Mohsen@acu.edu.eg,AcuKareemCs,Eng. Kareem Mohsen,Fundamentals of Programming I,CSC102,Data warehousing and Data integration,SWE411,2
+Hana.Abdelaziz@acu.edu.eg,AcuHanaCs,Eng. Hana Abdelaziz,Electronics,CNE101,Information and Networks Security,CNE308,2
+Yara.Mahmoud@acu.edu.eg,AcuYaraCs,Eng. Yara Mahmoud,Fundamentals of Programming I,CSC102,Introduction to Artificial Intelligence,CSC303,2
+Tamer.Gaber@acu.edu.eg,AcuTamerCs,Eng. Tamer Gaber,Discrete Mathematics,MAT103,Principles of Programming Languages ,CNE310,2
+Marwa.Mohamed@acu.edu.eg,AcuMarwaCs,Eng. Marwa Mohamed,Electronics,CNE101,Data Communications,CNE203,2
+Ahmed.Elkhouly@acu.edu.eg,AcuAhmedCs,Eng. Ahmed Elkhouly,Event-Driven Programming Languages,CSC207,Database ll,SWE402,2
+Alia.Ahmed@acu.edu.eg,AcuAliaCs,Eng. Alia Ahmed,Probability and Statistics,MAT203,Robotics,AIN402,2
+Sherif.Mostafa@acu.edu.eg,AcuSherifCs,Eng. Sherif Mostafa,Event-Driven Programming Languages,CSC207,Machine Learning,CSC409,2
+Nada.Hassan@acu.edu.eg,AcuNadaCs,Eng. Nada Hassan,Analysis and Design of Algorithms,CSC205,Perception and computer vision,CSC407,2
+Ahmed.Saad@acu.edu.eg,AcuAhmedCs,Eng. Ahmed Saad,Analysis and Design of Algorithms,CSC205,Information and Networks Security,CNE308,2
+Yasmine.Abdelaziz@acu.edu.eg,AcuYasmineCs,Eng. Yasmine Abdelaziz,Event-Driven Programming Languages,CSC207,Object oriented software development,SWE403,2
+Adel.Abdelmegid@acu.edu.eg,AcuAdelCs,Eng. Adel Abdelmegid,Data Communications,CNE203,Parellel and Distributed Systems,CNE310,2
+Salma.Mostafa@acu.edu.eg,AcuSalmaCs,Eng. Salma Mostafa,Introduction to Artificial Intelligence,CSC303,Virtual Reality,AIN414,2
+Ahmed.Ramadan@acu.edu.eg,AcuAhmedCs,Eng. Ahmed Ramadan,Information and Networks Security,CNE308,Optical Networks,CNE413,2
+Mona.Ali@acu.edu.eg,AcuMonaCs,Eng. Mona Ali,Computer Systems Modeling and Analysis,CNE310,Wireless Networks,CNE405,2
+Youssef.Ahmed@acu.edu.eg,AcuYoussefCs,Eng. Youssef Ahmed,Data Science Programming,CSC309,Deep Learning,AIN405,2
+Rasha.Mohamed@acu.edu.eg,AcuRashaCs,Eng. Rasha Mohamed,Data Science Programming,CSC309,Advanced Computer graphics,CSC413,2
+Amr.Khaled@acu.edu.eg,AcuAmrCs,Eng. Amr Khaled,Fundamentals of Programming I,CSC102,NULL,NULL,1
+Samar.Magdy@acu.edu.eg,AcuSamarCs,Eng. Samar Magdy,Fundamentals of Programming I,CSC102,NULL,NULL,1
+Omar.Elsherbini@acu.edu.eg,AcuOmarCs,Eng. Omar Elsherbini,Electronics,CNE101,NULL,NULL,1
+Nour.Eldeen@acu.edu.eg,AcuNourCs,Eng. Nour Eldeen,Fundamentals of Programming I,CSC102,NULL,NULL,1
+Dina.Saleh@acu.edu.eg,AcuDinaCs,Eng. Dina Saleh,Fundamentals of Programming I,CSC102,NULL,NULL,1
+Ahmed.Abdelrahim@acu.edu.eg,AcuAhmedCs,Eng. Ahmed Abdelrahim,Probability and Statistics,MAT203,NULL,NULL,1
+Noura.Ezzat@acu.edu.eg,AcuNouraCs,Eng. Noura Ezzat,Information Systems Analysis and Design,SWE201,NULL,NULL,1
+Walid.Mohamed@acu.edu.eg,AcuWalidCs,Eng. Walid Mohamed,Information Systems Analysis and Design,SWE201,NULL,NULL,1
+Hagar.Mahmoud@acu.edu.eg,AcuHagarCs,Eng. Hagar Mahmoud,Data Communications,CNE203,NULL,NULL,1
+Essam.Sobhy@acu.edu.eg,AcuEssamCs,Eng. Essam Sobhy,Principles of Programming Languages ,CSC204,NULL,NULL,1
+Salma.Hossam@acu.edu.eg,AcuSalmaCs,Eng. Salma Hossam,Analysis and Design of Algorithms,CSC205,NULL,NULL,1
+Sherine.Abdelaziz@acu.edu.eg,AcuSherineCs,Eng. Sherine Abdelaziz,Analysis and Design of Algorithms,CSC205,NULL,NULL,1
+Khaled.Saleh@acu.edu.eg,AcuKhaledCs,Eng. Khaled Saleh,Principles of Programming Languages ,CNE310,NULL,NULL,1
+Aya.Mohamed@acu.edu.eg,AcuAyaCs,Eng. Aya Mohamed,Information Systems Analysis and Design,SWE201,NULL,NULL,1
+Yassin.Elsharkawy@acu.edu.eg,AcuYassinCs,Eng. Yassin Elsharkawy,Information and Networks Security,CNE308,NULL,NULL,1
+Hoda.Mahmoud@acu.edu.eg,AcuHodaCs,Eng. Hoda Mahmoud,Computer Graphics,CSC302,NULL,NULL,1
+Tarek.Mohsen@acu.edu.eg,AcuTarekCs,Eng. Tarek Mohsen,Fault Tolerance,CSC310,NULL,NULL,1
+Rasha.Ali@acu.edu.eg,AcuRashaCs,Eng. Rasha Ali,Computer Graphics,CSC302,NULL,NULL,1
